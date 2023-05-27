@@ -1,0 +1,15 @@
+Best Parameters : {'activation': 'logistic', 'batch_size': 64, 'hidden_layer_sizes': (100, 100), 'learning_rate_init': 0.001, 'max_iter': 30}
+Best Accuracy : 0.8732
+Best Precision : 0.8723717527467166
+Best Recall : 0.8732
+Best F1 Score : 0.8724358264993898
+Best Confusion Matrix : [[822   4   6  43   1   1 113   1   9   0]
+ [  6 976   0  12   2   1   2   0   1   0]
+ [ 16   2 779  15 106   0  73   0   9   0]
+ [ 20  15  11 907  26   0  18   0   3   0]
+ [  1   0  72  39 823   0  60   0   5   0]
+ [  0   1   0   1   0 924   1  47   4  22]
+ [144   3  73  34  79   0 654   0  13   0]
+ [  0   0   0   0   0  14   0 926   0  60]
+ [ 10   0   2   3   5   7   8   5 960   0]
+ [  0   0   0   0   0  11   0  27   1 961]]Tuning Time : 0:25:42.410529
